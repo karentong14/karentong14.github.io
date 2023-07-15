@@ -1,4 +1,5 @@
-# Personal Website
+# [Personal Website!] (https://karentong14.github.io)
+
 This repository was based on a tutorial on how to use [Github Pages](https://pages.github.com/) to host
 a personal website. 
 
