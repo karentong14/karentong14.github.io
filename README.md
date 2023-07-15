@@ -1,8 +1,5 @@
-# [Personal Website!] (https://karentong14.github.io)
+# [Personal Website!](https://karentong14.github.io)
 
-This repository was based on a tutorial on how to use [Github Pages](https://pages.github.com/) to host
+This repository was based on a [tutorial](https://srisi.github.io/github_pages_tutorial/) on how to use [Github Pages](https://pages.github.com/) to host
 a personal website. 
-
-You can work your way through the tutorial at 
-[https://srisi.github.io/github_pages_tutorial/](https://srisi.github.io/github_pages_tutorial/). 
 
