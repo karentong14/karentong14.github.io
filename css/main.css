@@ -17,6 +17,14 @@ body {
     padding-bottom: 10%;
 }
 
+.white-box {
+    background-color: white;
+    color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20%;
+    padding-bottom: 10%;
+}
 
 h1 {
     font-weight: 400;
